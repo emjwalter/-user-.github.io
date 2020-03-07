@@ -30,7 +30,7 @@
   <li>Workshop Facilitator :school_satchel:</li>
   <li>Mentor :ear:</li>
   <li>Humanitarian Volunteer </li>
-  <li>Tech Newbie :nerd_face:</li>
+  <li>Tech Enthusiast :nerd_face:</li>
   <li>Continuous Learner :thought_balloon:</li> 
   <li>Occasional Improviser :performing_arts:</li>
 </ul>   
@@ -45,7 +45,7 @@
   <li>Having fun! :grinning:</li> 
 </ul> 
 
-If you would like to connect with me and explore ways in which we could collaborate, please get in touch.
+:coffee: If you would like to connect with me and explore ways in which we could collaborate, please get in touch.
 
 Thank you for checking out my page :yellow_heart:
   </body>
