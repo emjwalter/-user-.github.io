@@ -1,5 +1,5 @@
 <div>
-  <img src="images/logo.png" alt="photo_of_Emily">
+  <img src="images/bw dinosaur.jpg" alt="photo_of_Emily">
 </div>
 
 <head>
@@ -13,7 +13,7 @@
    At university I studied;
       <ul>
         <li> LLB (Hons) Law </li>
-      <li> Diplôme Approfondi de Langue Française (DALF) </li>
+      <li> Diplôme approfondi de langue française (DALF) </li>
       <li> MSc Defence, Development and Diplomacy </li>
   </ul>
       You can <a href="https://www.linkedin.com/in/emjwalter/">find out more about me on LinkedIn.</a>
@@ -23,7 +23,7 @@
 <ul>
   <li>Social Mobility Advocate </li>
   <li>Workshop Faciliator</li>
-  <li>Public Speaker</li>
+  <li>Mentor</li>
   <li>Humanitarian Volunteer </li>
   <li>Tech Newbie</li>
   <li>Continuous Learner</li> 
