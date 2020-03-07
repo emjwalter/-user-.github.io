@@ -1,10 +1,18 @@
 <div>
   <head>
-    <title><h1><strong>Emily Walter</strong></h1></title>
+    <h1><strong>Emily Walter</strong></h1>
   </head>
   
   <body>
-    <p>Hey, welcome to my Personal Portfolio! You can <a href="https://www.linkedin.com/in/emjwalter/">find out more about me on LinkedIn.</a>
+  <p><i>Hey, welcome to my Personal Portfolio!</i> 
+    <br>I'm Emily, living in London and working as a Manager at  <a href="https://www.upreach.org.uk">upReach.</a> 
+   </br>At university I studied;
+      <ul>
+        <li> LLB (Hons) Law </li>
+      <li> Diplôme approfondi de langue française </li>
+      <li> MSc Defence, Development and Diplomacy </li>
+  </ul>
+      You can <a href="https://www.linkedin.com/in/emjwalter/">find out more about me on LinkedIn.</a>
     </p>
 </div>
    
@@ -19,4 +27,3 @@
 </ul>   
     
   </body>
-
