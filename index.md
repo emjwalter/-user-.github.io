@@ -1,15 +1,10 @@
 <html>
-
-#<div>
-#  <img src="https://github.com/emjwalter/emjwalter.github.io/blob/master/bw%20dinosaour.JPG" alt="photo_of_Emily">
-#</div>
-
-<head>
+  <head>
     <h1><strong>Emily Walter</strong></h1>
   </head>
   
   <body>
-  <h4><em>Hey, welcome to my Personal Portfolio!</em></h4> 
+  <h4><em>Hello, welcome to my Personal Portfolio!</em></h4> 
    
    :person_with_blond_hair: I'm Emily,
    :round_pushpin:living in London,
@@ -23,6 +18,7 @@
   </ul>
       You can find out more about <a href="https://www.linkedin.com/in/emjwalter/">me on LinkedIn</a> and see what <a href="https://twitter.com/emjwalter">I Tweet</a> about here.
    </p>
+   
 <br>    
 <h4><em>I describe myself as a...</em></h4>
 <ul>
