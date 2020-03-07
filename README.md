@@ -1,2 +1,2 @@
-# -user-.github.io
+# emilywalter.github.io
 Personal Portfolio
