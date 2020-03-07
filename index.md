@@ -9,7 +9,7 @@
   </head>
   
   <body>
-  <h4>Hey, welcome to my Personal Portfolio!<h4> 
+  <h4><em>Hey, welcome to my Personal Portfolio!</em></h4> 
    
    :person_with_blond_hair: I'm Emily,
    :round_pushpin:living in London,
@@ -21,7 +21,7 @@
       <li> Diplôme approfondi de langue française (DALF) :fr:</li>
       <li> MSc Defence, Development and Diplomacy :briefcase:</li>
   </ul>
-      You can <a href="https://www.linkedin.com/in/emjwalter/">find out more about me on LinkedIn and <a href="hhttps://twitter.com/emjwalter">see what I Tweet about here.</a>
+      You can find out more about <a href="https://www.linkedin.com/in/emjwalter/">me on LinkedIn</a> and see what <a href="https://twitter.com/emjwalter">I Tweet</a> about here.
     </p>
    <br>
 <h4><em>I describe myself as a...</em></h4>
