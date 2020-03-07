@@ -9,8 +9,9 @@
   </head>
   
   <body>
-  <p><i>Hey, welcome to my Personal Portfolio!</i> 
+  <p><h4><em>Hey, welcome to my Personal Portfolio!</em><h4> 
     <br>
+  <br>
    :person_with_blond_hair: I'm Emily,
    :round_pushpin:living in London,
    and working as a Manager at <a href="https://www.upreach.org.uk">upReach.</a> 
@@ -48,6 +49,5 @@
 
 Thank you for checking out my page :yellow_heart:
 
-P.S. Bonus tune! :notes: /play cottoneyejoe
   </body>
 </html>
