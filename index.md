@@ -9,19 +9,19 @@
   </head>
   
   <body>
-  <p><h4>Hey, welcome to my Personal Portfolio!<h4> 
+  <h4>Hey, welcome to my Personal Portfolio!<h4> 
    
    :person_with_blond_hair: I'm Emily,
    :round_pushpin:living in London,
    and working as a Manager at <a href="https://www.upreach.org.uk">upReach.</a> 
-   </p>
+   <br>
    <p>At university I studied;
       <ul>
         <li> LL.B. (Hons) Law :mortar_board: </li>
       <li> Diplôme approfondi de langue française (DALF) :fr:</li>
       <li> MSc Defence, Development and Diplomacy :briefcase:</li>
   </ul>
-      You can <a href="https://www.linkedin.com/in/emjwalter/">find out more about me on LinkedIn.</a>
+      You can <a href="https://www.linkedin.com/in/emjwalter/">find out more about me on LinkedIn and <a href="hhttps://twitter.com/emjwalter">see what I Tweet about here.</a>
     </p>
    <br>
 <h4><em>I describe myself as a...</em></h4>
