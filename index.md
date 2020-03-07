@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 
 <div>
@@ -11,7 +10,7 @@
   
   <body>
   <p><i>Hey, welcome to my Personal Portfolio!</i> 
-    <br></br>
+    <br>
    :person_with_blond_hair: I'm Emily,
    :round_pushpin:living in London,
    and working as a Manager at <a href="https://www.upreach.org.uk">upReach.</a> 
@@ -23,7 +22,7 @@
   </ul>
       You can <a href="https://www.linkedin.com/in/emjwalter/">find out more about me on LinkedIn.</a>
     </p>
-   
+   <br>
 <h4><em>I describe myself as a...</em></h4>
 <ul>
   <li>Social Mobility Advocate :loudspeaker: </li>
@@ -48,5 +47,7 @@
 :coffee: If you would like to connect with me and explore ways in which we could collaborate, please get in touch.
 
 Thank you for checking out my page :yellow_heart:
+
+P.S. Bonus tune! :notes: /play cottoneyejoe
   </body>
 </html>
