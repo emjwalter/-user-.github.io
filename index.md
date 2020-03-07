@@ -1,4 +1,8 @@
 <html>
+ <div>
+![headshot](https://user-images.githubusercontent.com/44551263/76150298-c424c780-60a0-11ea-87b1-5889a9525e23.png)
+ </div>
+
   <head>
     <h1><strong>Emily Walter</strong></h1>
   </head>
