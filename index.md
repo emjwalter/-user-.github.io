@@ -1,8 +1,8 @@
 <html>
 
-<div>
-  <img src="https://github.com/emjwalter/emjwalter.github.io/blob/master/bw%20dinosaour.JPG" alt="photo_of_Emily">
-</div>
+#<div>
+#  <img src="https://github.com/emjwalter/emjwalter.github.io/blob/master/bw%20dinosaour.JPG" alt="photo_of_Emily">
+#</div>
 
 <head>
     <h1><strong>Emily Walter</strong></h1>
@@ -23,7 +23,7 @@
   </ul>
       You can find out more about <a href="https://www.linkedin.com/in/emjwalter/">me on LinkedIn</a> and see what <a href="https://twitter.com/emjwalter">I Tweet</a> about here.
    </p>
-    
+<br>    
 <h4><em>I describe myself as a...</em></h4>
 <ul>
   <li>Social Mobility Advocate :loudspeaker: </li>
