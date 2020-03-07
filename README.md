@@ -1,2 +1,2 @@
-# emilywalter.github.io
+# emwalt.github.io
 Personal Portfolio
