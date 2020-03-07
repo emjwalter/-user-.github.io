@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+
 <div>
   <img src="https://github.com/emjwalter/emjwalter.github.io/blob/master/bw%20dinosaour.JPG" alt="photo_of_Emily">
 </div>
@@ -9,14 +12,14 @@
   <body>
   <p><i>Hey, welcome to my Personal Portfolio!</i> 
     <br></br>
-   :person_with_blond_hair: I'm Emily, 
+   :person_with_blond_hair: I'm Emily,
    :round_pushpin:living in London,
    and working as a Manager at <a href="https://www.upreach.org.uk">upReach.</a> 
    At university I studied;
       <ul>
         <li> LL.B. (Hons) Law :mortar_board: </li>
       <li> Diplôme approfondi de langue française (DALF) :fr:</li>
-      <li> MSc Defence, Development and Diplomacy </li>
+      <li> MSc Defence, Development and Diplomacy :briefcase:</li>
   </ul>
       You can <a href="https://www.linkedin.com/in/emjwalter/">find out more about me on LinkedIn.</a>
     </p>
@@ -42,5 +45,8 @@
   <li>Having fun! :grinning:</li> 
 </ul> 
 
+If you would like to connect with me and explore ways in which we could collaborate, please get in touch.
+
 Thank you for checking out my page :yellow_heart:
   </body>
+</html>
