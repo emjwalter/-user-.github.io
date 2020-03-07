@@ -1,8 +1,4 @@
 <html>
- <div>
-![headshot](https://user-images.githubusercontent.com/44551263/76150298-c424c780-60a0-11ea-87b1-5889a9525e23.png)
- </div>
-
   <head>
     <h1><strong>Emily Walter</strong></h1>
   </head>
@@ -22,7 +18,7 @@
   </ul>
       You can find out more about <a href="https://www.linkedin.com/in/emjwalter/">me on LinkedIn</a> and see what <a href="https://twitter.com/emjwalter">I Tweet</a> about here.
    </p>
-   
+ <div>  
 <br>    
 <h4><em>I describe myself as a...</em></h4>
 <ul>
@@ -44,6 +40,7 @@
   <li>Working on projects that create social change or impact</li>
   <li>Having fun! :grinning:</li> 
 </ul> 
+</div>
 
 :coffee: If you would like to connect with me and explore ways in which we could collaborate, please get in touch.
 
