@@ -9,13 +9,13 @@
   </head>
   
   <body>
-  <p><h4><em>Hey, welcome to my Personal Portfolio!</em><h4> 
-    <br>
-  <br>
+  <p><h4>Hey, welcome to my Personal Portfolio!<h4> 
+   
    :person_with_blond_hair: I'm Emily,
    :round_pushpin:living in London,
    and working as a Manager at <a href="https://www.upreach.org.uk">upReach.</a> 
-   At university I studied;
+   </p>
+   <p>At university I studied;
       <ul>
         <li> LL.B. (Hons) Law :mortar_board: </li>
       <li> Diplôme approfondi de langue française (DALF) :fr:</li>
