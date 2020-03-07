@@ -22,8 +22,8 @@
       <li> MSc Defence, Development and Diplomacy :briefcase:</li>
   </ul>
       You can find out more about <a href="https://www.linkedin.com/in/emjwalter/">me on LinkedIn</a> and see what <a href="https://twitter.com/emjwalter">I Tweet</a> about here.
-    </p>
-   <br>
+   </p>
+    
 <h4><em>I describe myself as a...</em></h4>
 <ul>
   <li>Social Mobility Advocate :loudspeaker: </li>
